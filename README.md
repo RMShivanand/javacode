@@ -1,2 +1,2 @@
 # javacode
-write a java code here!
+write a java code where you want
