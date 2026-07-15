@@ -1,0 +1,7 @@
+package javacode;
+
+public class first {
+    public static void main(String[] args) {
+        System.out.println("well come!!");
+    }
+}
