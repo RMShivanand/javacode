@@ -8,7 +8,7 @@ public class selectionsort1 {
         select(arr);
         System.out.println(Arrays.toString(arr));
         
-    }
+    } 
     static void select(int[] arr){
         for(int i=0;i<arr.length;i++){
             // find the maximum item in the remaining array swap with correct index
